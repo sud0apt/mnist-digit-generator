@@ -1,7 +1,5 @@
 <h3><a href="[https://telco-mlp-churn-5qxoceoxyoxqyvrmboi7ev.streamlit.app/" target="_blank](https://mnist-digit-generator-nldagjteurnpewsymubbfy.streamlit.app/)">
-    🌐 Launch the MNIST Conditional VAE Digit Generator
- App
-</a></h3>
+    🌐 Launch the MNIST Conditional VAE Digit Generator App </a></h3>
 
 # 🧠✨ MNIST Conditional VAE Digit Generator
 
